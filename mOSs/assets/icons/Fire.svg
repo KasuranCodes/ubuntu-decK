@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360px" height="360px" viewBox="0 0 360 360">
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 340 L 300 300 L 340 180 L 300 60 L 180 20 L 60 60 L 20 180 L 60 300 L 180 340 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 320 L 280 280 L 320 180 L 280 80 L 180 40 L 80 80 L 40 180 L 80 280 L 180 320 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 47.058824%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 320 L 120 300 L 100 220 L 120 140 L 160 220 L 180 140 L 180 60 L 240 120 L 260 220 L 240 280 L 180 320 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 47.058824%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 200 120 L 220 220 L 240 220 L 220 120 L 200 80 L 180 240 L 220 260 L 220 240 L 200 220 L 240 240 L 200 280 L 160 300 L 120 260 L 120 200 L 160 240 L 140 240 L 160 260 L 180 260 L 160 280 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 47.058824%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 200 200 L 120 180 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(96.470588%, 82.745099%, 17.647059%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 300 L 140 260 L 120 220 L 180 240 L 200 180 L 220 240 L 180 300 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(96.470588%, 82.745099%, 17.647059%)" stroke-opacity="1" stroke-miterlimit="10" d="M 200 260 L 200 240 L 180 260 L 180 280 L 160 260 L 160 240 "/>
+</svg>
