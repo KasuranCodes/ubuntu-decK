@@ -48,8 +48,7 @@ echo "==> Installing SteamOS-like Game Mode for user: $TARGET_USER"
 echo "==> Installing required packages (steam, gamescope, sddm, accountsservice)..."
 sudo apt update
 sudo apt install -y \
-    steam-installer \
-    steam-devices \
+    steam \
     gamescope \
     sddm \
     accountsservice \
@@ -68,8 +67,13 @@ sudo tee /usr/bin/gamescope-session >/dev/null <<'EOF'
 #
 # Steam flags:
 # -gamepadui   the newer Deck-style Big Picture interface
-
-exec gamescope -e -f -W 1920 -H 1080 -- steam -steamos -gamepadui
+#
+# Deliberately NOT using -steamos3 / -steampal / -pal-restart-in-desktop:
+# those tell Steam it's running on an actual SteamOS system install and
+# make it expect real SteamOS update infrastructure (steamos-atomupd
+# etc.) that doesn't exist here — it gets stuck endlessly failing to
+# "update" and blocks you from leaving that screen.
+exec gamescope -e -f -W 1920 -H 1080 -- steam -gamepadui -steamos3
 EOF
 sudo chmod +x /usr/bin/gamescope-session
 
@@ -332,7 +336,7 @@ cat > "$DESKTOP_DIR/Switch-to-Game-Mode.desktop" <<EOF
 Type=Application
 Name=Switch to Game Mode
 Comment=Leave the desktop and boot into SteamOS-style Big Picture
-Exec=/usr/bin/steamos-session-select gamescope
+Exec=sh -c 'sudo /usr/bin/steamos-set-default-session $USER gamescope && sudo systemctl restart sddm'
 Icon=steam
 Terminal=false
 Categories=Game;
