@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Switch to Game Mode
+Comment=Leave the desktop and boot into SteamOS-style Big Picture
+Exec=/usr/bin/return-to-gamemode
+Icon=/usr/share/icons/hicolor/scalable/apps/mOSs-deck.svg
+Terminal=false
+Categories=Game;

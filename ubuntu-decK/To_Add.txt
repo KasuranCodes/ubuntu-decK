@@ -1,0 +1,1 @@
+Need to add the files from the installer and make a terminal app that appears in applications to enable boot from gamemode as well as a command in /usr/bin

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360px" height="360px" viewBox="0 0 360 360">
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 100 C 180 100 100 100 100 180 C 100 180 180 180 180 260 C 180 260 260 260 260 180 C 260 180 180 180 180 100 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 20 L 300 60 L 340 180 L 300 300 L 180 340 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 40 L 280 80 L 320 180 L 280 280 L 180 320 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 40 L 180 20 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 340 L 180 320 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 160 120 L 120 160 L 200 240 L 240 200 L 160 140 L 160 180 L 200 200 L 220 200 L 200 220 L 140 160 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 120 120 C 120 120 120 140 140 140 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 140 140 C 140 140 120 140 120 120 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 140 140 C 140 140 140 120 120 120 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 240 240 C 240 240 220 240 220 220 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 220 220 C 220 220 240 220 240 240 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 160 C 180 160 160 160 160 180 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 160 180 C 160 180 160 200 180 200 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 200 C 180 200 200 200 200 180 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 200 180 C 200 180 200 160 180 160 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 100%, 100%)" stroke-opacity="1" stroke-miterlimit="10" d="M 160 200 L 200 160 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 100%, 100%)" stroke-opacity="1" stroke-miterlimit="10" d="M 140 140 L 120 120 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 100%, 100%)" stroke-opacity="1" stroke-miterlimit="10" d="M 240 240 L 220 220 "/>
+</svg>

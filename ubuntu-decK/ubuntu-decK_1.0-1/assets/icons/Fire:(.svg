@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360px" height="360px" viewBox="0 0 360 360">
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 20 L 60 60 L 20 180 L 60 300 L 180 340 L 300 300 L 340 180 L 300 60 L 180 20 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(20%, 81.960785%, 47.843137%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 320 L 80 280 L 40 180 L 80 80 L 180 40 L 280 80 L 320 180 L 280 280 L 180 320 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 280 L 100 260 L 100 160 L 140 180 L 160 120 L 180 180 L 220 100 L 220 180 L 260 160 L 260 260 L 180 280 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(34.117648%, 89.019608%, 53.725493%)" stroke-opacity="1" stroke-miterlimit="10" d="M 120 180 L 160 200 L 160 160 L 200 200 L 200 160 L 240 200 L 240 240 L 180 260 L 120 240 L 120 200 L 160 220 L 160 240 L 180 240 L 140 220 L 180 200 L 180 220 L 200 220 L 200 240 L 220 220 L 220 200 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 100%, 100%)" stroke-opacity="1" stroke-miterlimit="10" d="M 180 280 L 120 260 L 120 180 L 140 200 L 160 160 L 180 200 L 200 160 L 220 180 L 240 180 L 240 260 L 180 280 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 100%, 100%)" stroke-opacity="1" stroke-miterlimit="10" d="M 140 220 L 160 200 L 200 220 L 200 180 L 220 200 L 220 220 L 180 260 L 140 240 L 160 220 L 180 220 L 180 240 L 160 240 "/>
+<path fill="none" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" stroke="rgb(100%, 100%, 100%)" stroke-opacity="1" stroke-miterlimit="10" d="M 240 240 L 200 240 "/>
+</svg>

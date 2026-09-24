@@ -1,0 +1,10 @@
+Package: ubuntu-decK
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: i386
+Depends: mangohud, gamescope, mesa-utils, accountsservice
+Maintainer: KasuranCodes
+Description: ubuntu-decK
+ Converts Kubuntu into SteamOS
+ SteamOS with the professionality of Ubuntu
