@@ -1,0 +1,1 @@
+curl -O https://raw.githubusercontent.com/KasuranCodes/ubuntu-decK/main/ubuntu-decK/ubuntu-decK_1.0-1.deb
