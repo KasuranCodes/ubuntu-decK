@@ -49,7 +49,7 @@ echo "==> Installing required packages (steam, gamescope, sddm, accountsservice)
 sudo apt update
 sudo apt install -y \
     steam \
-    mangohud \
+    mangoapp \
     gamescope \
     sddm \
     accountsservice \
